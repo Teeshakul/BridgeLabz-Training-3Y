@@ -1,2 +1,2 @@
 # BridgeLabz-Training-3Y
-BridgeLabz training assignments.”
+BridgeLabz training assignments.
