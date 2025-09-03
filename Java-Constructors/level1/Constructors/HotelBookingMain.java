@@ -1,0 +1,11 @@
+public class HotelBookingMain {
+    public static void main(String[] args) {
+        HotelBooking b1 = new HotelBooking();
+        HotelBooking b2 = new HotelBooking("Alice", "Deluxe", 3);
+        HotelBooking b3 = new HotelBooking(b2);
+
+        b1.displayDetails();
+        b2.displayDetails();
+        b3.displayDetails();
+    }
+}
